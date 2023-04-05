@@ -1,0 +1,33 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ProjectX\ProjectX\bin\Debug\ProjectX.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ProjectX\ProjectX\bin\Debug\ProjectX.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ProjectX\ProjectX\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ProjectX\ProjectX\obj\x86\Debug\ProjectX.Form1.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ProjectX\ProjectX\obj\x86\Debug\ProjectX.Properties.Resources.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ProjectX\ProjectX\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ProjectX\ProjectX\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ProjectX\ProjectX\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ProjectX\ProjectX\obj\x86\Debug\ProjectX.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ProjectX\ProjectX\obj\x86\Debug\ProjectX.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ProjectX\ProjectX\obj\x86\Debug\ProjectX.Form2.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ProjectX\ProjectX\obj\x86\Debug\ProjectX.frmAbout.resources
+D:\Tải Xuống\Classic_Encrypt_CodeCSharp\ProjectX\ProjectX\bin\Debug\ProjectX.exe
+D:\Tải Xuống\Classic_Encrypt_CodeCSharp\ProjectX\ProjectX\bin\Debug\ProjectX.pdb
+D:\Tải Xuống\Classic_Encrypt_CodeCSharp\ProjectX\ProjectX\obj\x86\Debug\ProjectX.csproj.AssemblyReference.cache
+D:\Tải Xuống\Classic_Encrypt_CodeCSharp\ProjectX\ProjectX\obj\x86\Debug\ProjectX.Form1.resources
+D:\Tải Xuống\Classic_Encrypt_CodeCSharp\ProjectX\ProjectX\obj\x86\Debug\ProjectX.Form2.resources
+D:\Tải Xuống\Classic_Encrypt_CodeCSharp\ProjectX\ProjectX\obj\x86\Debug\ProjectX.frmAbout.resources
+D:\Tải Xuống\Classic_Encrypt_CodeCSharp\ProjectX\ProjectX\obj\x86\Debug\ProjectX.Properties.Resources.resources
+D:\Tải Xuống\Classic_Encrypt_CodeCSharp\ProjectX\ProjectX\obj\x86\Debug\ProjectX.csproj.GenerateResource.cache
+D:\Tải Xuống\Classic_Encrypt_CodeCSharp\ProjectX\ProjectX\obj\x86\Debug\ProjectX.csproj.CoreCompileInputs.cache
+D:\Tải Xuống\Classic_Encrypt_CodeCSharp\ProjectX\ProjectX\obj\x86\Debug\ProjectX.exe
+D:\Tải Xuống\Classic_Encrypt_CodeCSharp\ProjectX\ProjectX\obj\x86\Debug\ProjectX.pdb
+D:\Tải Xuống\AFFINE_IN_DEXERYL\ProjectX\ProjectX\bin\Debug\ProjectX.exe
+D:\Tải Xuống\AFFINE_IN_DEXERYL\ProjectX\ProjectX\bin\Debug\ProjectX.pdb
+D:\Tải Xuống\AFFINE_IN_DEXERYL\ProjectX\ProjectX\obj\x86\Debug\ProjectX.csproj.AssemblyReference.cache
+D:\Tải Xuống\AFFINE_IN_DEXERYL\ProjectX\ProjectX\obj\x86\Debug\ProjectX.Form1.resources
+D:\Tải Xuống\AFFINE_IN_DEXERYL\ProjectX\ProjectX\obj\x86\Debug\ProjectX.frmAbout.resources
+D:\Tải Xuống\AFFINE_IN_DEXERYL\ProjectX\ProjectX\obj\x86\Debug\ProjectX.Properties.Resources.resources
+D:\Tải Xuống\AFFINE_IN_DEXERYL\ProjectX\ProjectX\obj\x86\Debug\ProjectX.csproj.GenerateResource.cache
+D:\Tải Xuống\AFFINE_IN_DEXERYL\ProjectX\ProjectX\obj\x86\Debug\ProjectX.csproj.CoreCompileInputs.cache
+D:\Tải Xuống\AFFINE_IN_DEXERYL\ProjectX\ProjectX\obj\x86\Debug\ProjectX.exe
+D:\Tải Xuống\AFFINE_IN_DEXERYL\ProjectX\ProjectX\obj\x86\Debug\ProjectX.pdb
